@@ -10,3 +10,11 @@ def first_element(a)
   a.first 
 end
 
+def third_element(a)
+  a[2]
+end 
+
+def last_element(a)
+  a.last 
+end 
+
